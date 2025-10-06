@@ -52,4 +52,5 @@ El propósito de este dashboard es facilitar la **toma de decisiones basada en d
 
 <img width="1431" height="805" alt="image" src="https://github.com/user-attachments/assets/ac6e7193-97d8-4b19-9c9c-7d85e77874b2" />
 
-
+## Dashboard
+https://github.com/Rosmery-Vasquez/Bases-de-datos-Power-Bi/raw/main/Reporte%20de%20ventas%20superstore-Kaggle-Rosmery%20V%C3%A1squez.pbix
